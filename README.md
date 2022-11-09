@@ -1,0 +1,7 @@
+- 👋 <b> <font face = "Courier New" size =" 3">I’m @akalema874 
+- 🎸 I am a musician- 
+- 🍃💨 I like Tree
+- 👀 I’m interested in ... Text To Speech programs, Ebooks, Readaloud, voice cloning
+- 🌱 I’m currently learning ... how to use Linux, and Python
+- 📫 How to reach me ... akalema_874@yahoo.com
+-       -Greg Miller</font><br /> </b>
